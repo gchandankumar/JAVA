@@ -1,3 +1,12 @@
 {
 System.out.println("how r u java");
+System.out.println("how r u V");
+System.out.println("how r u Mava");
+System.out.println("how r u Kova");
+System.out.println("how r u java");
+System.out.println("how r u viva");
+System.out.println("how r u beva");
+System.out.println("how r u jeeva");
+System.out.println("how r u java");
+System.out.println("how r u java");
 }
